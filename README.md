@@ -106,7 +106,7 @@
 
 ## 📜 License  
 
-This project is licensed under the [MIT License](https://github.com/aakashdixit22/frelancer-marketplace/blob/main/LICENSE).  
+This project is licensed under the [MIT License](https://github.com/snow9351/frelancer-marketplace/blob/main/LICENSE).  
 
 ---
 
