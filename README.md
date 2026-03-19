@@ -1,7 +1,7 @@
 # 🌟 Sark - The AI-Powered Job Portal 🚀  
-🌐 [Sark Talx]([https://Sark.vercel.app](https://freelancermarketplace.vercel.app/))  
+🌐 [Sark vercel]([https://Sark.vercel.app](https://freelancermarketplace.vercel.app/))  
 
-**Talx** is an innovative web application designed to streamline job searching, posting, and career guidance. It serves as a powerful platform for job posters, applicants, and individuals seeking career insights. With a modern, responsive design and AI-driven functionalities, Talx offers an enhanced user experience tailored for today's job market.  
+**Sark** is an innovative web application designed to streamline job searching, posting, and career guidance. It serves as a powerful platform for job posters, applicants, and individuals seeking career insights. With a modern, responsive design and AI-driven functionalities, Sark offers an enhanced user experience tailored for today's job market.  
 
 ---
 
@@ -28,7 +28,7 @@
    - Stay updated with the latest news in technology, sports, business, and more.  
 
 2. **Chat Assistant AI 🤖**  
-   - Provides instant assistance with navigating the Talx website.  
+   - Provides instant assistance with navigating the Sark website.  
    - Offers career guidance and answers tech-related queries.  
 
 3. **ResumeAI 📄**  
@@ -44,19 +44,19 @@
 ## 📸 Screenshots  
 
 ### 🌐 Homepage & Explore Jobs  
-![Homepage and Explore Jobs](https://github.com/aakashdixit22/talx-frontend/blob/main/public/demo/IMG_1.png?raw=true)  
+![Homepage and Explore Jobs](https://github.com/aakashdixit22/Sark-frontend/blob/main/public/demo/IMG_1.png?raw=true)  
 *Showcasing the modern, responsive homepage and the Explore Jobs page where users can browse job listings.*  
 
 ### ✏️ Post Job & My Jobs with Edit Modal  
-![Post Job and My Jobs with Edit Modal](https://github.com/aakashdixit22/talx-frontend/blob/main/public/demo/IMG_2.png?raw=true)  
+![Post Job and My Jobs with Edit Modal](https://github.com/aakashdixit22/Sark-frontend/blob/main/public/demo/IMG_2.png?raw=true)  
 *The Post Job page for job posters and the My Jobs page with the edit modal functionality.*  
 
 ### 📰 BulletinBuzz & 🤖 Chat Assistant  
-![BulletinBuzz and Chat Assistant](https://github.com/aakashdixit22/talx-frontend/blob/main/public/demo/IMG_3.png?raw=true)  
+![BulletinBuzz and Chat Assistant](https://github.com/aakashdixit22/Sark-frontend/blob/main/public/demo/IMG_3.png?raw=true)  
 *The BulletinBuzz section for the latest news and the Chat Assistant AI for guidance and support.*  
 
 ### 📄 ResumeAI in Action  
-![ResumeAI Working](https://github.com/aakashdixit22/talx-frontend/blob/main/public/demo/ResumeAI_GIF.gif?raw=true)  
+![ResumeAI Working](https://github.com/aakashdixit22/Sark-frontend/blob/main/public/demo/ResumeAI_GIF.gif?raw=true)  
 *Demonstrating the AI-powered resume analyzer providing insights and recommendations.*  
 
 
@@ -103,8 +103,8 @@
 #### Frontend  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/aakashdixit22/talx-frontend.git  
-   cd talx-frontend  
+   git clone https://github.com/aakashdixit22/Sark-frontend.git  
+   cd Sark-frontend  
    ```  
 2. Install dependencies:  
    ```bash  
@@ -114,7 +114,7 @@
    ```env  
    VITE_AUTH_MESSAGE=  
    VITE_AUTH_SECRET=  
-   VITE_TALX_API=  
+   VITE_Sark_API=  
    VITE_BACKEND_URL= 
    ```  
 4. Start the development server:  
@@ -138,4 +138,4 @@ For issues or queries, feel free to open an issue on the respective repository o
 
 ---  
 
-Empowering careers with **Talx** - Your AI-powered job portal. 🌟
+Empowering careers with **Sark** - Your AI-powered job portal. 🌟
