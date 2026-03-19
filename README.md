@@ -1,5 +1,5 @@
-# 🌟 Talx - The AI-Powered Job Portal 🚀  
-🌐 [Visit Talx](https://talx.vercel.app)  
+# 🌟 Sark - The AI-Powered Job Portal 🚀  
+🌐 [Sark Talx]([https://Sark.vercel.app](https://freelancermarketplace.vercel.app/))  
 
 **Talx** is an innovative web application designed to streamline job searching, posting, and career guidance. It serves as a powerful platform for job posters, applicants, and individuals seeking career insights. With a modern, responsive design and AI-driven functionalities, Talx offers an enhanced user experience tailored for today's job market.  
 
@@ -123,20 +123,10 @@
    ```  
    The frontend runs on `http://localhost:5173`.  
 
-#### Backend  
-1. Follow the instructions in the backend repository:  
-   [Talx Backend Repository](https://github.com/aakashdixit22/talx-backend)  
-
-#### AI Backend  
-1. Follow the instructions in the AI backend repository:  
-   [Talx AI Backend Repository](https://github.com/aakashdixit22/talx-api)  
-
----
-
 
 ## 📜 License  
 
-This project is licensed under the [MIT License](https://github.com/aakashdixit22/talx-frontend/blob/main/LICENSE).  
+This project is licensed under the [MIT License](https://github.com/aakashdixit22/frelancer-marketplace/blob/main/LICENSE).  
 
 ---
 
@@ -144,13 +134,7 @@ This project is licensed under the [MIT License](https://github.com/aakashdixit2
 
 For issues or queries, feel free to open an issue on the respective repository or use contact us section on our website.  
 
----  
 
-## 📂 Repositories  
-
-- **Frontend**: [Talx Frontend](https://github.com/aakashdixit22/talx-frontend)  
-- **Backend**: [Talx Backend](https://github.com/aakashdixit22/talx-backend)  
-- **AI Backend**: [Talx AI Backend](https://github.com/aakashdixit22/talx-api)  
 
 ---  
 
